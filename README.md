@@ -1,43 +1,49 @@
-<h1 align="center">Hi there 👋, I'm Ravi Kumar</h1>
+<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
+<h3 align="center">Not just a coder — a builder of ideas 💡 | Web Dev 💻 | AI Learner 🧠</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Web+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%A0;Creative+Thinker+%F0%9F%92%A1;Always+learning+new+things+%F0%9F%8C%8D" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-
-- 🔭 I'm passionate about **building interactive web apps**
-- 🌱 Currently learning **AI and JavaScript deeply**
-- 💬 Ask me about anything related to **HTML, CSS, JS**
-- ⚡ Fun fact: I believe **ideas shape the future** 💡
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-### 🌐 Connect With Me
+- 🔭 I’m currently working on **cool frontend projects**
+- 🌱 I’m learning **JavaScript, Python, and AI**
+- 💬 Ask me about **HTML, CSS, Git, JS, or anything tech**
+- 📫 How to reach me: **[YourEmail@gmail.com](mailto:YourEmail@gmail.com)**
+- ⚡ Fun fact: *I drink code and dream bugs 🐞*
+
+---
+
+### 🛠️ Languages and Tools:
 
 <p align="left">
-  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,figma,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" alt="ravi's stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" alt="ravi's streak" />
+</p>
+
+---
+
+### 🌐 Connect with me:
+
+<p align="left">
+  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="insta" /></a>
+  <a href="mailto:YourEmail@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" /></a>
+  <a href="https://www.linkedin.com/in/yourusername/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
 
-> *Not just a coder — a builder of ideas.* 💡  
-> *Web Dev 💻 | AI Learner 🧠*
-
----
-
-_💙 Thank you for visiting! Don't forget to star ⭐ my repositories if you like my work._
-
+⭐️ Don't forget to give a star to the repos you like!
