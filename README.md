@@ -57,7 +57,8 @@
 
 
 
-📧 Email: [ravijataav6@gmail.com](mailto:ravijataav6@gmail.com)
+[![Email](https://img.icons8.com/color/24/000000/gmail-new.png)](mailto:ravijataav6@gmail.com)
+
 
 
 ---
