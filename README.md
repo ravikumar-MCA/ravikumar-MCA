@@ -1,92 +1,43 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">Aspiring Full Stack Developer | BCA Final Year 🎓 | Passionate about Technology & Creativity 🚀</h3>
+<h1 align="center">Hi there 👋, I'm Ravi Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;AI+Learner+%F0%9F%92%BE;Creative+Coder+%F0%9F%A7%A0;Always+Improving+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FFCC&center=true&vCenter=true&width=440&lines=Web+Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A7%A0;Creative+Thinker+%F0%9F%92%A1;Always+learning+new+things+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+### 🚀 About Me
 
-- 🔭 I’m currently working on **JavaScript-based web apps**
-- 🌱 Currently learning: **Node.js, React, and AI concepts**
-- 👯 Looking to collaborate on **open source or AI projects**
-- 🧠 Exploring the synergy of **tech + creativity**
-- 💬 Ask me about: **HTML, CSS, JS, GitHub**
-- ⚡ Fun fact: *I love building stuff more than breaking them 😄*
+- 🔭 I'm passionate about **building interactive web apps**
+- 🌱 Currently learning **AI and JavaScript deeply**
+- 💬 Ask me about anything related to **HTML, CSS, JS**
+- ⚡ Fun fact: I believe **ideas shape the future** 💡
 
 ---
 
-### 🛠️ Languages and Tools
+### 🌐 Connect With Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,py,git,github,vscode,figma,bootstrap" />
+<p align="left">
+  <a href="https://instagram.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:yourmail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 💼 Projects Showcase
-
-| Project | Description | Tech Used |
-|--------|-------------|-----------|
-| 🕹️ **Ludo Game** | A playable Ludo game with custom UI | HTML, CSS |
-| ⏰ **Digital Clock** | Real-time clock with stylish layout | JavaScript |
-| 👩‍💻 **AI Assistant** | Performs basic tasks via input | HTML, JS |
-| 📑 **Registration Form** | Stylish form UI + validation | HTML, CSS |
-
-> 🎯 More projects on my GitHub [repositories](https://github.com/yourusername?tab=repositories)
-
----
-
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🎯 Current Goals
-
-- 🧠 Deepen my JavaScript & DSA knowledge  
-- 🧪 Build small tools and deploy them  
-- ✨ Create portfolio with real-time projects  
-- 🌱 Get internship / freelance opportunities  
+> *Not just a coder — a builder of ideas.* 💡  
+> *Web Dev 💻 | AI Learner 🧠*
 
 ---
 
-### 💬 Let's Connect
+_💙 Thank you for visiting! Don't forget to star ⭐ my repositories if you like my work._
 
-<p align="center">
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-  <a href="https://www.linkedin.com/in/yourusername"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-</p>
-
----
-
-### 🏅 Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
-</p>
-
----
-
-### 🧠 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-### ⚡ Powered by Passion, Caffeine, and Determination 💪
