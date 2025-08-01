@@ -38,25 +38,7 @@
 
 ---
 
-### 📬 Connect With Me
 
-<p align="left">
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-<p align="left">
-  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="insta" /></a>
-  <a href="mailto:YourEmail@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="gmail" /></a>
-  <a href="https://www.linkedin.com/in/yourusername/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ### 📌 Motto
 
