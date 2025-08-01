@@ -27,18 +27,6 @@
 
 ---
 
-### 📂 Featured Projects
-
-> ⭐ Want to explore more? Check the pinned repositories!
-
-| Project Name | Description | Stack |
-|--------------|-------------|-------|
-| 🧠 AI Assistant | AI assistant with input commands | HTML, JS |
-| 🎲 Ludo Game | Playable UI-based Ludo game | HTML, CSS |
-| ⏰ Digital Clock | Real-time animated clock | JavaScript |
-| 📝 Form UI | Stylish validated form | HTML, CSS |
-
----
 
 ### 📊 GitHub Stats
 
