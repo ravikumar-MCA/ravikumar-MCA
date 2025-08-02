@@ -1,6 +1,23 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-border.svg" width="90%" />
 </p>
+<svg width="100%" height="100%" viewBox="0 0 1200 1800" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="gradient">
+      <stop offset="0%" stop-color="#ff0000">
+        <animate attributeName="stop-color" values="#ff0000;#00ff00;#0000ff;#ff00ff;#ffff00;#ff0000" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0000ff">
+        <animate attributeName="stop-color" values="#0000ff;#00ffff;#ff00ff;#ffff00;#00ff00;#0000ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="1180" height="1780" rx="25" ry="25"
+        fill="none" stroke="url(#gradient)" stroke-width="10">
+    <animate attributeName="stroke-dasharray" values="50,1000;1000,50" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dashoffset" values="0;1000" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 <div>
 
