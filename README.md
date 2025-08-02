@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-border.svg" width="90%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ravikumar-MCA/animated-border/main/animated-border.svg" width="100%" />
