@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  
+
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A Passionate Full Stack MERN Developer from India 🇮🇳</h3>
 
