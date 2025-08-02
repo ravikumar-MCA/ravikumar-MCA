@@ -1,9 +1,10 @@
 <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-border.svg" width="90%" />
 </p>
-<p align="center">
+
   <img src="https://raw.githubusercontent.com/ravikumar-MCA/animated-border/main/animated-border.svg" width="100%" />
-</p>
+
 
 <div>
 
@@ -15,7 +16,7 @@
 </p>
 
 ---
-
+</p>
 ### 🚀 About Me
 
 - 👨‍💻 I specialize in **MongoDB, Express.js, React.js, and Node.js**
