@@ -1,10 +1,11 @@
-<p align="center">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-border.svg" width="90%" />
 </p>
 
+<p align="center">
   <img src="https://raw.githubusercontent.com/ravikumar-MCA/animated-border/main/animated-border.svg" width="100%" />
-
+</p>
 
 <div>
 
@@ -13,7 +14,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=38B2AC&center=true&vCenter=true&width=440&lines=Full+Stack+MERN+Developer;JavaScript+%7C+Node.js+%7C+React+%7C+MongoDB;Problem+Solver+%7C+Creative+Coder+%7C+Team+Player" alt="Typing SVG" />
-</p>
+
 
 ---
 </p>
