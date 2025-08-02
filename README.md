@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ravikumar-MCA/animated-border/main/animated-border.svg" width="100%" />
-</p>
+
 
 <div>
 
@@ -14,6 +14,7 @@
 
 
 ---
+</p>
 </p>
 ### 🚀 About Me
 
