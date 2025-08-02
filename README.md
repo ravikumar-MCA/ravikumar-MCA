@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-border.svg" width="90%" />
+</p>
+
+<div>
+  
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
 <h3 align="center">A Passionate Full Stack MERN Developer from India 🇮🇳</h3>
 
@@ -55,15 +61,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-
-
 [![Email](https://img.icons8.com/color/24/000000/gmail-new.png)](mailto:ravijataav6@gmail.com)
 
-
-
 ---
-
-
 
 ### 📌 Motto
 
@@ -72,3 +72,9 @@
 ---
 
 _Thanks for visiting! ⭐ Star your favorite project to support!_
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/animated-border.svg" width="90%" />
+</p>
